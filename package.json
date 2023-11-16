@@ -1,7 +1,7 @@
 {
   "name": "console-portfolio",
   "version": "0.1.0",
-  "homepage": "",
+  "homepage": "http://Yuvaraj7800/Yuvaraj-portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
