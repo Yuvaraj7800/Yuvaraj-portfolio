@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Yuvaraj-portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/Yuvaraj-portfolio/static/js/main.c1c21559.js",
+    "main.js": "/Yuvaraj-portfolio/static/js/main.5a7e3fb0.js",
     "static/media/HeroImage.jpg": "/Yuvaraj-portfolio/static/media/HeroImage.9df02884e5176718f2a9.jpg",
     "index.html": "/Yuvaraj-portfolio/index.html",
     "main.bf538fe7.css.map": "/Yuvaraj-portfolio/static/css/main.bf538fe7.css.map",
-    "main.c1c21559.js.map": "/Yuvaraj-portfolio/static/js/main.c1c21559.js.map"
+    "main.5a7e3fb0.js.map": "/Yuvaraj-portfolio/static/js/main.5a7e3fb0.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.c1c21559.js"
+    "static/js/main.5a7e3fb0.js"
   ]
 }
